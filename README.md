@@ -7,9 +7,13 @@ Alle alten uni projekte die ich in diversen programierkursen dort erstellt haben
 Dieses Projekt war die finale zusatzaufgabe in meinem C kurs an der Hochschule Düsseldorf
 In diesem projekt ging es darum ein photo mit 3x5px groesse einzulesen und dann anhand folgender matrix:
 
-2-3-4-5-6-7
-1-x-x-x-x-8
-0-x-x-x-x-9
+| 2 | 3 | 4 | 5 | 6 | 7 |
+|---|---|---|---|---|---|
+| 1 | x | x | x | x | 8 |
+|---|---|---|---|---|---|
+| 0 | x | x | x | x | 9 |
+
+
 
 Die entsprechenden RGB farbwerte der einzelnen pixel unter den Koordinaten der matrikelnummer ausgeben
 in meinem fall: 789749
