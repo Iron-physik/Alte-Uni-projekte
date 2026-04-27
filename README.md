@@ -7,7 +7,7 @@ The university specific libraries are missing, so they currently dont run.
 
 ### Projects in C at the HSD School (2018-2019)
 <div align="center">
-  <img src="./assets/HSD_Logo.svg" alt="HSD Logo" height="60" />
+  <img src="./assets/HSD_Logo.svg" alt="HSD Logo" height="120" />
 </div>
 
 Detailed descriptions for each programming assignment (PA) are located in their respective subfolders:
@@ -26,7 +26,7 @@ The final bonus exercise that processes an EPS image to find RGB values along th
 
 ### Projects in Python at the Heinrich-Heine University 2022
 <div align="center">
-  <img src="./assets/HHU_Logo.svg" alt="HHU Logo" height="60" />
+  <img src="./assets/HHU_Logo.svg" alt="HHU Logo" height="120" />
 </div>
 
 Detailed descriptions for each programming assignment (PA) are located in their respective subfolders:
